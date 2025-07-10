@@ -18,7 +18,6 @@ A real-time chat and video calling application built with React, Stream Chat, an
 
 **Frontend:**
 - React + Vite
-- TypeScript
 - Tailwind CSS
 - Stream Chat & Video SDKs
 - TanStack Query (React Query)
