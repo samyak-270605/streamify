@@ -37,8 +37,3 @@ A real-time chat and video calling application built with React, Stream Chat, an
 - MongoDB Atlas account or local MongoDB
 - Stream Developer account (for API keys)
 - Git
-
-
-   ```bash
-   git clone https://github.com/samyak-270605/streamify.git
-   cd streamify
