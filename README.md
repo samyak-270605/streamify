@@ -38,9 +38,7 @@ A real-time chat and video calling application built with React, Stream Chat, an
 - Stream Developer account (for API keys)
 - Git
 
-## Setup Instructions 🚀
 
-1. **Clone the repository**
    ```bash
    git clone https://github.com/samyak-270605/streamify.git
    cd streamify
