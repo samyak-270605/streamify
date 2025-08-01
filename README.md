@@ -19,6 +19,8 @@ A real-time chat and video calling application built with React, Stream Chat, an
 **Frontend:**
 - React + Vite
 - Tailwind CSS
+- Lucid React
+- Daisy UI
 - Stream Chat & Video SDKs
 - TanStack Query (React Query)
 - React Router
