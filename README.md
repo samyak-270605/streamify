@@ -31,9 +31,6 @@ A real-time chat and video calling application built with React, Stream Chat, an
 - MongoDB (Mongoose)
 - JWT Authentication
 - Stream API Integration
-  
-
-https://github.com/user-attachments/assets/92583d31-e25f-4240-8332-af044dc22ee2
 
 ## Prerequisites 📋
 
@@ -41,3 +38,5 @@ https://github.com/user-attachments/assets/92583d31-e25f-4240-8332-af044dc22ee2
 - MongoDB Atlas account or local MongoDB
 - Stream Developer account (for API keys)
 - Git
+
+https://github.com/user-attachments/assets/92583d31-e25f-4240-8332-af044dc22ee2
