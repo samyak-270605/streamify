@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/92583d31-e25f-4240-8332-af044dc22ee2
+
 # Streamify 💬🎥
 
 ![Streamify Demo](demo.gif) <!-- Add a demo GIF if available -->
