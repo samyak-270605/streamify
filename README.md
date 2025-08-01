@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/92583d31-e25f-4240-8332-af044dc22ee2
-
 # Streamify 💬🎥
 
 ![Streamify Demo](demo.gif) <!-- Add a demo GIF if available -->
@@ -35,6 +31,9 @@ A real-time chat and video calling application built with React, Stream Chat, an
 - MongoDB (Mongoose)
 - JWT Authentication
 - Stream API Integration
+  
+
+https://github.com/user-attachments/assets/92583d31-e25f-4240-8332-af044dc22ee2
 
 ## Prerequisites 📋
 
